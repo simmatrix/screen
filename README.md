@@ -23,6 +23,11 @@ Edit your `composer.json` file
 ],
 ```
 
+After editing the file, please run the composer command
+```
+composer update microweber/screen
+```
+
 If you're using Ubuntu, follow [this guide](https://gist.github.com/julionc/7476620) to setup PhantomJS in your server.
 
 On any unix systems, you need to make the `bin` executable `chmod +x /path/to/screen/bin/phantomjs`
