@@ -575,4 +575,14 @@ class Capture
 
         return $this;
     }
+
+    /**
+     * Returns the jobs
+     *
+     * @return Screen\Location\Jobs
+     */
+    public function getJobs()
+    {
+        return $this->jobs;
+    }
 }

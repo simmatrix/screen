@@ -1,6 +1,6 @@
 <?php
 
-namespace Screen\Capture\Facades;
+namespace Screen\Capture\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
